@@ -1,1 +1,1 @@
-This repository contains all of the notes taken by Zhenia for the (Lighthouse Labs Web Development Bootcamp)[https://www.lighthouselabs.ca/en/web-development-bootcamp].
+This repository contains all of the notes taken by Zhenia for the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp).
